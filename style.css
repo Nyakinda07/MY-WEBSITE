@@ -2,11 +2,11 @@ h1{
     text-align: center;
 }
 img{
-    height: 250px;
-    width: 200px;
-    border-radius: ;
+    width: 300px;
+    height:400px;
+    
 }
 
 body{
-    background-image: url(PICTURES/image.png);
+    background-color: black;
 }
